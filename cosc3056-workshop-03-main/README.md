@@ -45,5 +45,4 @@ This folder will not affect a *local* VSCode setup on a computer.
 * A/Prof. Julie Porteous, School of Computing Technologies, STEM College, RMIT University.
 
 
-Copyright RMIT University (c) 2023
 
