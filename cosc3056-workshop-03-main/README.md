@@ -49,4 +49,3 @@ This folder will not affect a *local* VSCode setup on a computer.
 
 Copyright RMIT University (c) 2023
 
-[1]: https://www.w3schools.com/css/css_templates.asp
