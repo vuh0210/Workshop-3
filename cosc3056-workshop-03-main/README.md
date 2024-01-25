@@ -1,6 +1,4 @@
 # COSC3056 Workshop 03 Starter Code
-# COSC3056 Workshop 03 Starter Code
-# COSC3056 Workshop 03 Starter Code
 
 This repository contains the starter code for:
 * Git collaboration
