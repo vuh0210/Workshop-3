@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # COSC3056 Workshop 03 Starter Code 1
+=======
+# COSC3056 Workshop 03 Starter Code 2
+>>>>>>> origin
 
 This repository contains the starter code for:
 * Git collaboration
